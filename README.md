@@ -61,4 +61,4 @@ If the script encounters an issue while creating a repository or pushing content
 
 ## License
 
-This script is licensed under the MIT License. See [LICENSE.md](LICENSE.md) for more details.
+This script is licensed under the Apache License. See [LICENSE.md](LICENSE.md) for more details.
