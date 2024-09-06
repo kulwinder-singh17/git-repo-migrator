@@ -1,0 +1,14 @@
+{
+  "name": "git-repo-migrator",
+  "version": "1.0.0",
+  "description": "To push multiple repos in single go from given folder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kulwinder Singh",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7"
+  }
+}
